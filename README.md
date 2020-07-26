@@ -1,6 +1,6 @@
 # Tarefas 
 <h4 align="center">
-    <img src="readme/windows.png"/>
+    <img src="readme/screens.png"/>
 </h4>
 App que lista sua tarefas feito para matéria de programação mobile com **Android Studio**
 
