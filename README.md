@@ -1,6 +1,7 @@
 # Tarefas 
-![](readme/windows.png)
-
+<h4 align="center">
+    ![](readme/windows.png)
+</h4>
 App que lista sua tarefas feito para matéria de programação mobile com **Android Studio**
 
 ## Conhecimetos adquiridos
