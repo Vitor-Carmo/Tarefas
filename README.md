@@ -2,7 +2,7 @@
 <h4 align="center">
     <img src="readme/screens.png"/>
 </h4>
-App que lista sua tarefas feito para matéria de programação mobile com **Android Studio**
+App que lista sua tarefas feito para matéria de programação mobile com <b>Android Studio</b>
 
 ## Conhecimetos adquiridos
 * Trabalhar com **Sqlite** no android studio
